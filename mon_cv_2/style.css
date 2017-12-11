@@ -1,0 +1,221 @@
+body {
+	color: white;
+	font-size: 105%;
+	font-family: Helvetica;
+	width: 1800px;
+}
+
+.haut_page {
+	margin: auto;
+	width: 50%;
+	height: 10%;
+	background: #303030;
+}
+
+.title_header {
+	text-align: left;
+	font-size: 200%;
+}
+
+.ligne {
+	margin-left: 1em;
+	margin-right: 1em;
+	border-bottom: 0.1em solid white;
+}
+
+.ico2 {
+	float: right;
+	margin-right: 0.8%;
+}
+
+.colURL {
+	color: white;
+}
+
+.text_mail {
+	font-size: 90%;
+}
+
+.nav_forme {
+	margin-left: 25%;
+	width: 14%;
+	height: 30%;
+	background: #3498db;
+	font-size: 85%;
+	float: left;
+
+}
+
+.section_form1 {
+	width: 36%;
+	height: 30%;
+	background: #e3e3e3;
+	font-size: 80%;
+	float: left;
+}
+
+.section_form2 {
+	width: 36%;
+	height: 30%;
+	background: #e3e3e3;
+	font-size: 80%;
+	float: left;
+}
+
+.section_form3 {
+	margin-left: 25%;
+	width: 50%;
+	height: 30%;
+	background: #2980b9;
+	font-size: 80%;
+	float: left;
+}
+
+.imageTitre {
+	margin-left: 20%;
+	overflow: hidden;
+	-webkit-border-radius: 90px;
+	-moz-border-radius: 90px;
+	border-radius: 100px;
+	width: 60%;
+	height: 60%;
+}
+
+.RS {
+	margin-left: 0.5em;
+	margin-bottom: 0.5em;
+}
+
+.RSspe {
+	margin-left: 0.7em;
+	margin-bottom: 0.5em;
+}
+
+.sep {
+	margin-left: 1%;
+}
+
+.tableau_skill {
+	width: 100%;
+	border-collapse: collapse;
+}
+
+.tableau_language {
+	width: 100%;
+	border-collapse: collapse;
+	margin-bottom: 2%;
+}
+
+.test {
+	font-size: 120%;
+	margin-left: 0.5em;
+}
+
+.color_square_grey {
+	color: #95a5a6;
+}
+
+.color_square_white {
+	color: white;
+}
+
+.square_flag {
+	margin-left: 6%;
+	color: white;
+}
+
+.color_square_flag {
+	margin-left: 16%;
+}
+
+.title{
+	font-size: 180%;
+	color: black;
+	margin-left: 1.5%;
+}
+
+.title2 {
+	font-size: 150%;
+	color: black;
+	margin-left: 2.5%;
+}
+
+.title2_section {
+	font-size: 150%;
+	color: #ecf0f1;
+	margin-left: 2.5%;
+}
+
+.title_section {
+	font-size: 180%;
+	color: #ecf0f1;
+	margin-left: 1.5%;
+}
+
+.text {
+	font-size: 130%;
+	margin-left: 3.5%;
+	color: black;
+}
+
+.text_fin {
+		font-size: 130%;
+	margin-left: 3.5%;
+	color: black;
+	padding-bottom: 6px;
+}
+
+.tab_hard_skill {
+	width: 70%;
+	border-collapse: collapse;
+	margin-left: 25%;
+	font-size: 120%
+}
+
+.color_square_blue {
+	color: #3498db;
+}
+
+.blue_text {
+	color: #3498db;
+	margin-left: 2%;
+}
+
+.blue_spe_text {
+	color: #e3e3e3;
+	margin-left: 2%;
+}
+
+.text_nav {
+	font-size: 110%;
+	margin-left: 3.5%;
+}
+
+.logo_protocol {
+	width: 30%;
+	margin-left: 12%;
+	height: 30%;
+}
+
+.logo_protocol_centrer {
+	width: 30%;
+	margin-left: 35%;
+	height: 30%;
+}
+
+.logo_protocol_marg {
+	width: 30%;
+	margin-left: 12%;
+	height: 30%;
+	padding-bottom: 52px;
+}
+
+.text_tab {
+	color: black;
+}
+
+.text_section {
+	color: #ecf0f1;
+	margin-left: 3.5%;
+	font-size: 130%;
+}
