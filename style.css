@@ -1,0 +1,147 @@
+body {
+	color: white;
+	font-family: Helvetica;
+	width: 1800px;
+}
+
+/*.imageTitre {
+	overflow:hidden;
+	-webkit-border-radius:40px;
+	-moz-border-radius:40px;
+	border-radius:40px;
+	width:10em;
+	height:10em;
+	margin-left: 47%
+}*/
+
+.identifiant {
+	text-align: left;
+	font-size: 200%;
+}
+
+.RS {
+	margin-left: 1.5em;
+	margin-bottom: 0.5em;
+}
+
+.RSspe {
+	margin-left: 2em;
+	margin-bottom: 0.5em;
+}
+
+.titre {
+	margin-left: 1em;
+	font-size: 200%;
+}
+
+.rectangleHeader {
+	margin: auto;
+	width: 50%;
+	height: 10%;
+	background: #303030;
+}
+
+.photo {
+	margin-right: 50em;
+}
+
+.ligne {
+	margin-left: 1em;
+	margin-right: 1em;
+	border-bottom: 0.1em solid white;
+}
+
+.ligne2 {
+	margin: auto;
+	border-bottom: 0.5em solid grey;
+}
+
+.ico {
+	margin-right: 5em;
+}
+
+.ico2 {
+	float: right;
+	margin-right: 0.8%;
+}
+
+.sep {
+	margin-left: 1%;
+}
+
+.rectangleBody {
+	margin-top: 0.5em;
+	width: 100%;
+	height: 50%;
+	background: #ff8c00;
+}
+
+.AffRi {
+	float: right;
+	margin-right: 1em;
+}
+
+.colURL {
+	color: white;
+}
+
+.petitTitre {
+	font-size: 170%;
+}
+
+.tableau1 {
+	width: 100%;
+	border-collapse: collapse;
+}
+
+td {
+	width: 50%;
+	text-align: center;
+	color: black;
+}
+
+.title{
+	font-size: 135%;
+	color: black;
+}
+
+.celuleDroite {
+	background-color:#ededed;
+}
+
+.celuleGauche {
+	background-color: #e3e3e3;
+}
+.td_Titre {
+	color: white;
+}
+
+.orange {
+	color: #ff8c00;
+	font-family: arial;
+}
+
+.text_align_left {
+	text-align: left;
+}
+
+.tableau_compétence {
+	width: 100%;
+	border-collapse: collapse;
+}
+
+.color_square_orange {
+	color: #ff8c00;	
+}
+
+.color_square_white {
+	color: white;
+}
+
+.margin_square {
+	margin-left: 15%;
+}
+
+.partionner {
+	width: 100%;
+}
